@@ -2,10 +2,10 @@ package com.kole.logstel.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+val Forest80 = Color(0xFFA8DAB5)
+val Steel80 = Color(0xFFBBCBC0)
+val Clay80 = Color(0xFFE6C6A8)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val Forest40 = Color(0xFF246B45)
+val Steel40 = Color(0xFF52665A)
+val Clay40 = Color(0xFF7A5A3D)
